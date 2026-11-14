@@ -1,0 +1,101 @@
+ID;Nombre;Precio;Tipo
+100;Yogurt de Fresa;1000;Lácteos
+101;Yogurt de Mora;1175;Lácteos
+102;Yogurt de Arandanos;1750;Lácteos
+103;Yogurt de Manzana;1000;Lácteos
+104;Mantequilla;1450;Lácteos
+105;Mantequilla de Ajo;2925;Lácteos
+106;Mantequilla clarificada;1550;Lácteos
+107;Mantequilla sin sal;2000;Lácteos
+108;Mantequilla de Ajo;2650;Lácteos
+109;Leche Entera 1L;1425;Lácteos
+110;Leche Descremada 1L;1450;Lácteos
+111;Leche Semi Descremada 1L;1350;Lácteos
+112;Natilla;4525;Lácteos
+113;Crema Dulce;3625;Lácteos
+114;Queso Fresco;2375;Lácteos
+115;Galletas María;2625;Panadería
+116;Galletas Oreo;1500;Panadería
+117;Galletas Pozuelo;1700;Panadería
+118;Galletas Yippie;1975;Panadería
+119;Galletas María;1300;Panadería
+120;Pan de Hamburguesa;1175;Panadería
+121;Pan Baguette;1525;Panadería
+122;Tortillas de Maíz;3400;Panadería
+123;Pan Dulce;1275;Panadería
+124;Pan Baguette;1200;Panadería
+125;Pan Blanco;850;Panadería
+126;Pan Integral;2125;Panadería
+127;Queque de Vainilla;775;Panadería
+128;Tortillas de Maíz;2450;Panadería
+129;Donas;2075;Panadería
+130;Plátano Maduro;3725;Verduras y Frutas
+131;Cebolla Blanca;2375;Verduras y Frutas
+132;Zanahoria;3925;Verduras y Frutas
+133;Cebolla Morada;3725;Verduras y Frutas
+134;Papa's Grandes;4475;Verduras y Frutas
+135;Papa's de Saco;4900;Verduras y Frutas
+136;Cebollin;5900;Verduras y Frutas
+137;Racimo de Bananas;4150;Verduras y Frutas
+138;Pepino;850;Verduras y Frutas
+139;Lechuga Romana;3350;Verduras y Frutas
+140;Tomate Chonto;1300;Verduras y Frutas
+141;Tomate Chery;1525;Verduras y Frutas
+142;Repollo;3225;Verduras y Frutas
+143;Col;2700;Verduras y Frutas
+144;Salchichón;2500;Carnes y Embutidos
+145;Tocineta Ahumada;2625;Carnes y Embutidos
+146;Chuleta de Cerdo;3400;Carnes y Embutidos
+147;Carne Molida de Res;6975;Carnes y Embutidos
+148;Salchillas;4500;Carnes y Embutidos
+149;Jamón de Pavo;1500;Carnes y Embutidos
+150;Jamón de Cerdo;2025;Carnes y Embutidos
+151;Pechuga de Pollo;4425;Carnes y Embutidos
+152;Chorizo;525;Carnes y Embutidos
+153;Salchichas de Pavo;3400;Carnes y Embutidos
+154;Pechuga de Pavo;5425;Carnes y Embutidos
+155;Salchichón Tradicional;5700;Carnes y Embutidos
+156;Carne Molida de Res;8125;Carnes y Embutidos
+157;Carne Molida de Res;7725;Carnes y Embutidos
+158;Pasta Spaguetti;5675;Abarrotes
+159;Azúcar Blanca;1100;Abarrotes
+160;Arroz Integral;2875;Abarrotes
+161;Arroz Integral;2400;Abarrotes
+162;Frijoles Negros;2675;Abarrotes
+163;Café Molido;1175;Abarrotes
+164;Atún en Trozos;3400;Abarrotes
+165;Café Molido;3075;Abarrotes
+166;Arroz Integral;2775;Abarrotes
+167;Frijoles Negros;2475;Abarrotes
+168;Sal Refinada;3225;Abarrotes
+169;Sal Refinada;2350;Abarrotes
+170;Arroz Integral;3275;Abarrotes
+171;Atún en Trozos;5575;Abarrotes
+172;Refresco de Cas;2825;Bebidas
+173;Agua Mineral;1275;Bebidas
+174;Té Frío Limón;675;Bebidas
+175;Refresco de Cas;1750;Bebidas
+176;Té Frío Limón;1650;Bebidas
+177;Agua Mineral;1250;Bebidas
+178;Bebida Energética;3650;Bebidas
+179;Coca-Cola 2L;1325;Bebidas
+180;Coca-Cola 2L;3925;Bebidas
+181;Té Frío Limón;2125;Bebidas
+182;Cerveza Pilsen;2550;Bebidas
+183;Té Frío Limón;2150;Bebidas
+184;Refresco de Cas;1575;Bebidas
+185;Jugo de Naranja;1800;Bebidas
+186;Cloro Blanco;4475;Limpieza
+187;Detergente en Polvo;6025;Limpieza
+188;Detergente en Polvo;6050;Limpieza
+189;Esponja de Cocina;2950;Limpieza
+190;Detergente en Polvo;4075;Limpieza
+191;Lavaplatos Líquido;1650;Limpieza
+192;Esponja de Cocina;2050;Limpieza
+193;Detergente en Polvo;975;Limpieza
+194;Suavizante de Telas;4700;Limpieza
+195;Detergente en Polvo;6100;Limpieza
+196;Lavaplatos Líquido;1700;Limpieza
+197;Lavaplatos Líquido;2775;Limpieza
+198;Suavizante de Telas;4075;Limpieza
+Prod-100;Cloro Blanco;5050;Limpieza
